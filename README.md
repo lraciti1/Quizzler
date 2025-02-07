@@ -1,5 +1,5 @@
 # Quizzler
-Created Quizzler through a online Python Course that used visual GUI, pre-defined database, and interactive features.
+Created Quizzler that used visual GUI, pre-defined database, and interactive features.
 
 Interactive User Interface:
 With the integration of the QuizInterface class, the game provides an intuitive and visually appealing GUI, built using the Tkinter library. Players interact with the quiz through buttons, receiving real-time feedback on their answers.
